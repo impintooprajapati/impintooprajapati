@@ -1,63 +1,72 @@
 <h1 align="center">Hi 👋, I'm Pintoo Prajapati</h1>
+
 <h3 align="center">
-Flutter Developer | 4.5+ Years Building Scalable Cross-Platform Apps
+Flutter Developer • Mobile Engineer • Indie Builder
 </h3>
 
 <p align="center">
-I build full-scale mobile products end-to-end — from architecture to App Store launch.
-Hands-on experience with real-time chat, geolocation, secure payments, and clean,
-scalable Flutter architecture using Bloc/Cubit.
+Building scalable, production-ready mobile applications from architecture to store release.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=impintooprajapati&label=Profile%20Views&color=00C853&style=flat" />
 <a href="https://linkedin.com/in/impintooprajapati">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=impintooprajapati&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 📱 SDE II | Flutter Developer with 4.5+ years shipping production apps to Play Store & App Store
-- 💼 Experience across fintech, e-learning, and logistics domains
-- 💳 Built secure payment integrations (Stripe, Razorpay, PayPal, GPay, Apple Pay)
-- 🗺️ Built real-time features — chat, live tracking, geolocation
-- 🌱 Currently learning **JavaScript, React & modern web technologies**
-- 🤖 Exploring **AI-assisted development** — daily driver of Claude, Cursor, Gemini & Antigravity
-- 🔌 Comfortable working with **LLM APIs**, prompt design, and token/context management
-- ⚡ Focused on Clean Architecture, Bloc/Cubit state management & Firebase
-- 💬 Ask me about **Flutter, Dart, Kotlin, Firebase, App Architecture & AI-assisted workflows**
-- 💚 Marvel fan (Team Loki)
+I'm a Flutter Developer focused on building reliable, scalable, and polished mobile products for Android and iOS.
+
+My work goes beyond UI development — I enjoy solving architecture problems, integrating complex APIs, optimizing performance, handling native integrations, and taking applications all the way to production.
+
+- 📱 Building production Flutter applications for Android & iOS
+- 🧱 Strong focus on **Clean Architecture, Bloc/Cubit & scalable codebases**
+- 🚀 Experience shipping apps through **Google Play & App Store**
+- 💳 Payment integrations including **Stripe, Razorpay, PayPal, Google Pay & Apple Pay**
+- 📍 Experience with **geolocation, live tracking & real-time features**
+- 🔥 Working extensively with **Firebase, REST APIs & mobile backend integrations**
+- 🎬 Currently working with **video engineering and media workflows**
+- 🌐 Learning **JavaScript, React & modern web development**
+- 🤖 Exploring **LLM integrations, AI-assisted development & agentic workflows**
+- 💚 Marvel fan — Team Loki
 
 ---
 
 ## 🛠 Tech Stack
 
-**Mobile**
+### Mobile
+
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase" />
 </p>
 
-**Web**
+### Web
+
 <p>
 <img src="https://skillicons.dev/icons?i=javascript,react,html,css" />
 </p>
 
-**Backend & Database**
+### Backend & Database
+
 <p>
 <img src="https://skillicons.dev/icons?i=firebase,nodejs,mongodb" />
 </p>
 
-**Tools**
+### Development Tools
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-## 🤖 AI Tools & Workflow
+## 🤖 AI-Assisted Development
+
+I actively use modern AI tools as part of my development workflow.
 
 <p>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -66,29 +75,86 @@ scalable Flutter architecture using Bloc/Cubit.
 <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-- Use Claude, Cursor, Gemini & Antigravity daily to speed up development, debugging & code review
-- Working knowledge of **LLM API integration** — request/response handling, streaming, and structured outputs
-- Understand **token usage & context window management** — writing efficient prompts, chunking large inputs, and controlling cost/latency tradeoffs
-- Exploring **agentic coding workflows** and how AI tools fit into a real Flutter/mobile dev pipeline
+I use AI tools for:
+
+- Architecture exploration
+- Debugging and code review
+- Refactoring large codebases
+- Documentation
+- Rapid prototyping
+- Prompt design
+- Structured LLM outputs
+- Context and token optimization
+- Agentic coding workflows
+
+I'm particularly interested in how AI can improve real-world mobile development rather than simply generating code.
 
 ---
 
-## 🌟 Currently Working On
+## 🚀 What I'm Building
 
-- 🪷 **[Digital Mala – Japa Counter](https://play.google.com/store/apps/details?id=com.digitalmala.digital_mala_app)** — now live on Google Play, actively maintaining & shipping updates
-- 🌐 Building my **Digital Biography** — a personal site that tells my story, not just a resume
-- 🤫 **Quiet Thanks** — a private daily journal app, currently in progress
-- 🎬 Deep in **video engineering work** for enterprise/office apps at my day job
-- 💡 Exploring a **new project idea** — bringing an old-school concept back with a modern build
-- 🎯 Modern UI/UX experiments
-- ⚡ Interactive motion effects & animations
+### 🪷 Digital Mala
+
+**A distraction-free Japa counter for daily chanting and mindfulness.**
+
+[View on Google Play](https://play.google.com/store/apps/details?id=com.digitalmala.digital_mala_app)
+
+Currently maintaining the application and shipping improvements based on real-world usage.
 
 ---
 
-## 📊 GitHub Stats
+### 🤫 Quiet Thanks
+
+**A private, offline-first gratitude journal focused on simplicity, privacy, and mindful reflection.**
+
+[View on Google Play](https://play.google.com/store/apps/details?id=com.app.quietthanks)
+
+Now live on Google Play and actively maintained.
+
+---
+
+### 🌐 Digital Biography
+
+Building a personal website designed to tell my journey, projects, experiments, and ideas beyond a traditional résumé.
+
+---
+
+### 🧪 Experiments
+
+I'm constantly experimenting with:
+
+- Flutter architecture
+- Offline-first applications
+- Motion & animation
+- Modern UI systems
+- Developer tools
+- AI integrations
+- Local AI models
+- Mobile performance optimization
+
+---
+
+## 📦 Open Source
+
+I also publish Flutter packages and experiments that solve practical development problems.
+
+### 🔐 privacy_scope
+
+A Flutter package focused on simplifying privacy-related platform functionality.
+
+[View on pub.dev](https://pub.dev/packages/privacy_scope)
+
+More open-source Flutter tools are currently in development.
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=impintooprajapati&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=impintooprajapati&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -98,18 +164,22 @@ scalable Flutter architecture using Bloc/Cubit.
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Let's Connect
 
-<p align="left">
-<a href="https://linkedin.com/in/impintooprajapati" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<p>
+<a href="https://linkedin.com/in/impintooprajapati">
+<img src="https://img.shields.io/badge/LinkedIn-Pintoo%20Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
+I'm always interested in discussions around Flutter, mobile architecture, developer tooling, AI-assisted development, and interesting product ideas.
+
 ---
 
-## 💡 Quote
+<p align="center">
+<i>"Great software isn't just built — it's crafted."</i>
+</p>
 
-> "Great software isn't just built — it's crafted."
-
-⭐ If you like my work, consider starring my repositories.
+<p align="center">
+⭐ If you find something useful here, consider starring the repository.
+</p>
