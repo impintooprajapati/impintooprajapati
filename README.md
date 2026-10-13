@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pintoo Prajapati</h1>
 
 <h3 align="center">
-Flutter Developer • Mobile Engineer • Indie Builder
+Flutter Developer • Mobile Engineer
 </h3>
 
 <p align="center">
